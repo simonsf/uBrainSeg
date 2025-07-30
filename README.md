@@ -1,3 +1,3 @@
 # uBrainSeg
 
-Related codes will be publicly available after acceptance.
+Related codes and sample data will be publicly available after acceptance.
